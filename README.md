@@ -1,7 +1,3 @@
-# This repository is OUTDATED.
-
-# ====================================
-
 # react-django-oauth2-example
 An example oauth integration with reactjs frontend and a django backend with google and github login
 
